@@ -74,17 +74,17 @@ O projeto foi desenvolvido utilizando **Python 3.x** e as seguintes bibliotecas:
 
 1. **Exploração dos Dados:**
    
-  Abra o Jupyter Notebook e execute as células para visualizar estatísticas e gráficos.
-  A análise inicial ajudará a entender a distribuição dos preços e identificar padrões.
+    Abra o Jupyter Notebook e execute as células para visualizar estatísticas e gráficos.
+    A análise inicial ajudará a entender a distribuição dos preços e identificar padrões.
 
 2. **Treinamento do Modelo:**
 
-  Testamos diferentes abordagens para prever os preços com base nas características dos imóveis.
+    Testamos diferentes abordagens para prever os preços com base nas características dos imóveis.
 
 3. **Previsão de Preço:**
 
-  Aplicamos o modelo para prever o preço de um apartamento específico.
+    Aplicamos o modelo para prever o preço de um apartamento específico.
   
 4. **Exportação do Modelo:**
 
-  O modelo treinado foi salvo no formato .pkl para reutilização e se encontra disponivel no repositório.
+    O modelo treinado foi salvo no formato .pkl para reutilização e se encontra disponivel no repositório.
