@@ -1,11 +1,11 @@
 # [Lighthouse] Desafio Ciência de Dados-2025
 
-Terceira etapa do processo seletivo do programa LIGHTHOUSE DA Indicium para a carreira de Ciência de Dados.
+Terceira etapa do processo seletivo do programa LIGHTHOUSE DA Indicium para a carreira de Ciência de Dados. O desafio consiste em desenvolver um modelo preditivo de preços para aluguéis temporários na cidade de Nova York, utilizando dados extraídos do maior concorrente da plataforma.
 
 ## Contexto do Projeto
 Fui alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York. Para o desenvolvimento de sua estratégia de precificação, pediu para que a Indicium fizesse uma análise exploratória dos dados de seu maior concorrente, assim como um teste de validação de um modelo preditivo.
 
-O **objetivo** deste projeto é desenvolver um modelo preditivo de preços para uma plataforma de aluguéis temporários em Nova York, analisando dados do maior concorrente da empresa.
+O **objetivo** do projeto visa analisar os dados de aluguéis temporários de um concorrente, aplicar modelos preditivos e gerar um modelo de precificação para a plataforma.
 
 ### Este desafio avalia:
 
@@ -88,3 +88,7 @@ O projeto foi desenvolvido utilizando **Python 3.x** e as seguintes bibliotecas:
 4. **Exportação do Modelo:**
 
     O modelo treinado foi salvo no formato .pkl para reutilização e se encontra disponivel no repositório.
+
+5. **Perguntas e Explorações:**
+
+    As perguntas e explorações sugeridas e obrigatórias no documento do desafio foram respondidas e realizadas de forma intriseca no projeto.
