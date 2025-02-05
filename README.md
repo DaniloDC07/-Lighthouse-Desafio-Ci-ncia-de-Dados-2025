@@ -17,6 +17,7 @@ O objetivo dessa etapa foi avaliar os meus conhecimentos sobre conceitos estatí
   - `matplotlib` - Criação de gráficos e visualizações
   - `nltk` - Natural Language Toolkit, para processamento de linguagem natural
   - `seaborn` - Biblioteca para visualização estatística
+  - `torch`- Framework de deep learning para computação com GPU
   - `wordcloud` - Geração de nuvens de palavras
 
 
