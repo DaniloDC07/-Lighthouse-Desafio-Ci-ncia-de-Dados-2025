@@ -91,4 +91,4 @@ O projeto foi desenvolvido utilizando **Python 3.x** e as seguintes bibliotecas:
 
 5. **Perguntas e Explorações:**
 
-    As perguntas e explorações sugeridas e obrigatórias no documento do desafio foram respondidas e realizadas de forma intriseca no projeto.
+    As perguntas e explorações sugeridas e obrigatórias no documento do desafio foram respondidas e realizadas de forma intrínseca no notebook do projeto.
